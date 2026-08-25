@@ -28,7 +28,7 @@ const developer = {
     devops:    ["Docker", "AWS (EC2)", "GitHub Actions", "Linux"]
   },
 
-  currentFocus: "Building V-Connect — a real-time video communication platform (FYP)"
+  currentFocus: "Building V-Connect, a real-time video communication platform (FYP)"
 };
 ```
 
