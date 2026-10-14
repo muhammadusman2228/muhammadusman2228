@@ -2,11 +2,11 @@
 
 # Hi there, I'm Muhammad Usman 👋
 
-### Full Stack Software Engineer | ASP.NET Core & React Specialist
+### Full Stack Developer | MERN Stack Specialist & Enterprise ASP.NET Core
 
 <p align="center">
-  <b>Full-Stack Software Engineer specializing in resilient, high-concurrency backends with ASP.NET Core 10 and Node.js, paired with fluid, accessible user interfaces built on React 19 and TypeScript.</b><br>
-  Currently engineering high-reliability enterprise web modules at <b>Daewoo Pakistan Express Bus Service LTD</b> and completing a BS in Computer Science.
+  <b>Full-Stack Software Engineer specializing in the MERN Stack (React 19, Node.js, Express 5, MongoDB) and low-latency real-time systems (Socket.io & WebRTC), actively expanding into enterprise backend architectures with ASP.NET Core 10, C#, and Entity Framework Core.</b><br>
+  Currently engineering high-reliability web modules at <b>Daewoo Pakistan Express Bus Service LTD</b> and completing a BS in Computer Science @ KIPS Education System.
 </p>
 
 <p align="center">
@@ -35,46 +35,45 @@
 
 <table>
   <tr>
-    <td width="22%"><b>Languages</b></td>
+    <td width="22%"><b>Core Stack (MERN)</b></td>
     <td>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
     </td>
   </tr>
   <tr>
-    <td><b>Backend & APIs</b></td>
+    <td><b>Enterprise Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/ASP.NET_Core_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
       <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+      <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Real-Time & Architecture</b></td>
+    <td>
       <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
       <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
+      <img src="https://img.shields.io/badge/RESTful_APIs-00599C?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
       <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
     </td>
   </tr>
   <tr>
     <td><b>Frontend Ecosystem</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
       <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases & Cache</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
     </td>
   </tr>
   <tr>
@@ -107,40 +106,19 @@
   <tbody>
     <tr>
       <td>
-        <b>CareFlow</b><br>
-        <i>Enterprise Hospital Management & Clinical Consultation Platform</i>
-      </td>
-      <td>
-        <code>ASP.NET Core 10 Web API</code><br>
-        <code>Entity Framework Core</code><br>
-        <code>React 19</code><br>
-        <code>MySQL / SQL Server</code>
-      </td>
-      <td>
-        • 3-tier RBAC architecture with IDOR defense-in-depth<br>
-        • Atomic transactions for multi-provider shift and clinic scheduling<br>
-        • Concurrency-protected consultation booking with active diversion guards<br>
-        • Dual-token rotating JWT pipeline (HttpOnly SameSite cookies)
-      </td>
-      <td>
-        <a href="https://github.com/muhammadusman2228/CareFlow"><b>Source</b></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>VConnect</b><br>
-        <i>Real-Time Peer-to-Peer Video & Messaging Platform</i>
+        <i>Flagship Real-Time Communication Platform (FYP)</i>
       </td>
       <td>
-        <code>React.js</code> · <code>Vite</code><br>
-        <code>Node.js</code> · <code>Express</code><br>
+        <code>React 19</code> · <code>Vite</code><br>
+        <code>Node.js</code> · <code>Express 5</code><br>
         <code>Socket.io</code> · <code>WebRTC</code><br>
         <code>MongoDB</code> · <code>Tailwind</code>
       </td>
       <td>
         • Low-latency P2P audio/video streaming via WebRTC mesh topology<br>
         • Socket.io dynamic signaling and active room presence tracking<br>
-        • Instant fallback reconnection strategies and ICE candidate handling<br>
+        • Instant fallback reconnection strategies and ICE candidate exchange<br>
         • GSAP micro-interactions and high-performance UI
       </td>
       <td>
@@ -166,6 +144,27 @@
       </td>
       <td>
         <a href="https://github.com/muhammadusman2228/CollabVote"><b>Source</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>CareFlow</b><br>
+        <i>Enterprise Hospital Management & Clinical Consultation Platform</i>
+      </td>
+      <td>
+        <code>ASP.NET Core 10 Web API</code><br>
+        <code>Entity Framework Core</code><br>
+        <code>React 19</code><br>
+        <code>MySQL / SQL Server</code>
+      </td>
+      <td>
+        • Enterprise backend expansion with ASP.NET Core 10 & EF Core<br>
+        • 3-tier RBAC architecture with IDOR defense-in-depth<br>
+        • Atomic transactions for multi-provider shift and clinic scheduling<br>
+        • Concurrency-protected consultation booking with active diversion guards
+      </td>
+      <td>
+        <a href="https://github.com/muhammadusman2228/CareFlow"><b>Source</b></a>
       </td>
     </tr>
     <tr>
