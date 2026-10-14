@@ -2,10 +2,10 @@
 
 # Hi there, I'm Muhammad Usman 👋
 
-### Full Stack Developer | MERN Stack Specialist & Enterprise ASP.NET Core
+### Full Stack Developer | MERN Stack Specialist · AWS Cloud & System Design · Enterprise ASP.NET Core
 
 <p align="center">
-  <b>Full-Stack Software Engineer specializing in the MERN Stack (React 19, Node.js, Express 5, MongoDB) and low-latency real-time systems (Socket.io & WebRTC), actively expanding into enterprise backend architectures with ASP.NET Core 10, C#, and Entity Framework Core.</b><br>
+  <b>Full-Stack Software Engineer specializing in the MERN Stack (React 19, Node.js, Express 5, MongoDB), low-latency real-time systems (Socket.io & WebRTC), and AWS Cloud Infrastructure (EC2, S3, ECR, IAM, ALB, CloudFront). Actively expanding into high-throughput System Design and enterprise backend architectures with ASP.NET Core 10, C#, and Entity Framework Core.</b><br>
   Currently engineering high-reliability web modules at <b>Daewoo Pakistan Express Bus Service LTD</b> and completing a BS in Computer Science @ KIPS Education System.
 </p>
 
@@ -35,7 +35,7 @@
 
 <table>
   <tr>
-    <td width="22%"><b>Core Stack (MERN)</b></td>
+    <td width="24%"><b>Core Stack (MERN)</b></td>
     <td>
       <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -46,6 +46,29 @@
     </td>
   </tr>
   <tr>
+    <td><b>Cloud & DevOps (AWS)</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2"/>
+      <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
+      <img src="https://img.shields.io/badge/CloudFront-D05C4C?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="CloudFront"/>
+      <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" alt="Amplify"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>System Design & Scale</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge&logo=diagram-next&logoColor=white" alt="System Design"/>
+      <img src="https://img.shields.io/badge/Distributed_Systems-1E293B?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Distributed Systems"/>
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+    </td>
+  </tr>
+  <tr>
     <td><b>Enterprise Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/ASP.NET_Core_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
@@ -53,16 +76,6 @@
       <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core"/>
       <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Real-Time & Architecture</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
-      <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
-      <img src="https://img.shields.io/badge/RESTful_APIs-00599C?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-      <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
     </td>
   </tr>
   <tr>
@@ -77,10 +90,8 @@
     </td>
   </tr>
   <tr>
-    <td><b>DevOps & Infrastructure</b></td>
+    <td><b>Tooling & Platforms</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/AWS_(EC2)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -118,7 +129,7 @@
       <td>
         • Low-latency P2P audio/video streaming via WebRTC mesh topology<br>
         • Socket.io dynamic signaling and active room presence tracking<br>
-        • Instant fallback reconnection strategies and ICE candidate exchange<br>
+        • Instant fallback reconnection strategies and ICE candidate handling<br>
         • GSAP micro-interactions and high-performance UI
       </td>
       <td>
