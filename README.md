@@ -5,7 +5,7 @@
 ### Full Stack Developer | MERN Stack Specialist · AWS Cloud & System Design · Enterprise ASP.NET Core
 
 <p align="center">
-  <b>Full-Stack Software Engineer specializing in the MERN Stack (React 19, Node.js, Express 5, MongoDB), low-latency real-time systems (Socket.io & WebRTC), and AWS Cloud Infrastructure (EC2, S3, ECR, IAM, ALB, CloudFront). Actively expanding into high-throughput System Design and enterprise backend architectures with ASP.NET Core 10, C#, and Entity Framework Core.</b><br>
+  <b>Full-Stack Software Engineer specializing in the MERN Stack (React 19, Node.js, Express 5, MongoDB), real-time messaging architectures (Socket.io), and AWS Cloud Infrastructure (EC2, S3, ECR, IAM, ALB, CloudFront). Actively expanding into high-throughput System Design and enterprise backend architectures with ASP.NET Core 10, C#, and Entity Framework Core.</b><br>
   Currently engineering high-reliability web modules at <b>Daewoo Pakistan Express Bus Service LTD</b> and completing a BS in Computer Science @ KIPS Education System.
 </p>
 
@@ -63,7 +63,7 @@
       <img src="https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge&logo=diagram-next&logoColor=white" alt="System Design"/>
       <img src="https://img.shields.io/badge/Distributed_Systems-1E293B?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Distributed Systems"/>
       <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
-      <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
+      <img src="https://img.shields.io/badge/RESTful_APIs-00599C?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
       <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
     </td>
@@ -81,7 +81,6 @@
   <tr>
     <td><b>Frontend Ecosystem</b></td>
     <td>
-      
       <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
@@ -118,19 +117,19 @@
     <tr>
       <td>
         <b>VConnect</b><br>
-        <i>Flagship Real-Time Communication Platform (FYP)</i>
+        <i>Real-Time Web Messaging & Chat Platform (FYP)</i>
       </td>
       <td>
         <code>React 19</code> · <code>Vite</code><br>
         <code>Node.js</code> · <code>Express 5</code><br>
-        <code>Socket.io</code> · <code>WebRTC</code><br>
-        <code>MongoDB</code> · <code>Tailwind</code>
+        <code>Socket.io</code> · <code>MongoDB</code><br>
+        <code>Tailwind CSS</code>
       </td>
       <td>
-        • Low-latency P2P audio/video streaming via WebRTC mesh topology<br>
-        • Socket.io dynamic signaling and active room presence tracking<br>
-        • Instant fallback reconnection strategies and ICE candidate handling<br>
-        • GSAP micro-interactions and high-performance UI
+        • Real-time two-way web messaging powered by Socket.io room events<br>
+        • Active online user presence tracking and live message delivery<br>
+        • Resilient WebSocket reconnection handling and fallback strategies<br>
+        • Responsive chat interface styled with Tailwind CSS and GSAP animations
       </td>
       <td>
         <a href="https://github.com/muhammadusman2228/VConnect"><b>Source</b></a><br>
